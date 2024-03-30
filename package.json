@@ -1,0 +1,33 @@
+{
+  "name": "devcodecraftmaster",
+  "version": "1.0.2",
+  "description": "devcodecraftmaster",
+  "type": "module",
+  "main": "devcodecraftmaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabbardef6263/devcodecraftmaster"
+  },
+  "website": "https://github.com/gabbardef6263/devcodecraftmaster.git",
+  "keywords": [
+    "devcodecraftmaster"
+  ],
+  "author": "gabbardef6263",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbardef6263/devcodecraftmaster/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/gabbardef6263/devcodecraftmaster#readme",
+  "dependencies": {
+    "programcraftgenius": "1.0.2",
+    "codescriptcraftsage": "1.0.2",
+    "devcodecraftpro": "1.0.2"
+  }
+}
